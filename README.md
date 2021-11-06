@@ -1,6 +1,6 @@
 <img src="./aurora.jpg"/>
 <!-- img taken by: https://www.instagram.com/tobias.bjorkli/ go visit his instagram-->
-# Hi, I'm Sergio! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hi I'm Sergio! :wave:
 
 Welcome to my GitHub!
 Grab a coffee :coffee: and take a look around
@@ -53,6 +53,10 @@ I'm interested in:
 ### :iphone: Contact info
 
 <div class="shields">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+    <a href="mailto:oigresanep@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/sergio-pe%C3%B1a-bayona-297308128/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+    </a>
 </div>
