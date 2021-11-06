@@ -1,5 +1,6 @@
-<img src="./aurora.jpg"/>
 <!-- img taken by: https://www.instagram.com/tobias.bjorkli/ go visit his instagram-->
+<img src="./aurora.jpg"/>
+
 # Hi I'm Sergio! :wave:
 
 Welcome to my GitHub!
@@ -56,7 +57,7 @@ I'm interested in:
     <a href="mailto:oigresanep@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
     </a>
-    <a href="https://www.linkedin.com/in/sergio-pe%C3%B1a-bayona-297308128/">
+    <a href="https://www.linkedin.com/in/sergio-pe%C3%B1a-bayona-297308128/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
     </a>
 </div>
